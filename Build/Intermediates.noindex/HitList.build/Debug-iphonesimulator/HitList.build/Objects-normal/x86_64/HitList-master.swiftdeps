@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "69e83484734627c1fb170c47fbcb0945"
+build_time: [1585637101, 846808000]
+inputs:
+  "/Users/congle/Desktop/SWIFT/HitList/HitList/ViewController.swift": [1585637091, 845230426]
+  "/Users/congle/Desktop/SWIFT/HitList/HitList/AppDelegate.swift": [1585622180, 340169558]
+  "/Users/congle/Desktop/SWIFT/HitList/HitList/SceneDelegate.swift": [1585620709, 654827293]
+  "/Users/congle/Desktop/SWIFT/HitList/Build/Intermediates.noindex/HitList.build/Debug-iphonesimulator/HitList.build/DerivedSources/CoreDataGenerated/HitList/Person+CoreDataClass.swift": [1585635534, 601670520]
+  "/Users/congle/Desktop/SWIFT/HitList/Build/Intermediates.noindex/HitList.build/Debug-iphonesimulator/HitList.build/DerivedSources/CoreDataGenerated/HitList/Person+CoreDataProperties.swift": [1585635534, 602883187]
+  "/Users/congle/Desktop/SWIFT/HitList/Build/Intermediates.noindex/HitList.build/Debug-iphonesimulator/HitList.build/DerivedSources/CoreDataGenerated/HitList/HitList+CoreDataModel.swift": [1585635534, 596152659]
